@@ -1,4 +1,4 @@
-const api = "https://sites.google.com/view/yazimyanlislari";
+const api = "https://kimbupsbl.github.io/TDE-PROJE/";
 
 const quizLimit = 8; // default: 8
 const answerTime = 20; //default: 20
