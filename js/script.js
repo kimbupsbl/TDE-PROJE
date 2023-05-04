@@ -118,7 +118,7 @@ function drawImage(name, date, certificateNumber, totalTime) {
     ctx.font = '50px Recursive';
     ctx.fillText(totalTime, 930, 470);
 
-    // Sponsor fonksiyonu bu işleri hallediyor. DU alltaki 4 satırı tekrar aktif ettim.
+ 
     
     document.getElementById("qc").style.display = "none";
     document.getElementById("loader").style.display = "block";
@@ -237,11 +237,7 @@ function createProgressbar(id, duration, callback) {
         progressbarinner.addEventListener('animationend', callback);
     }
 
-    // Append the progressbar to the main progressbardiv
-    progressbar.appendChild(progressbarinner);
 
-    // When everything is set up we start the animation
-    progressbarinner.style.animationPlayState = 'running';
 }
 
 const welcomeMessage = document.getElementById("welcome-message");
@@ -384,7 +380,6 @@ function shuffle(array) {
     return array;
 }
 
-// Komili projesi özelinde sorular karıştırılmayacak. TI iptal oldu.
 shuffle(quizData);
 
 const quiz = document.getElementById('quiz')
