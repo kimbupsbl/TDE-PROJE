@@ -385,4 +385,4 @@ const quizData = [
                },
        correctanswer: "c",
     },
-];
+]
