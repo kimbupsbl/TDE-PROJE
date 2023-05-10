@@ -8,10 +8,10 @@ const quizData = [
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
           answers: {
-        1: "Çiçekleride suladı.",
-        2: "Bu dünya sana da bana da kalmaz.",
-        3: "Bugün okulda eğlence var.",
-        4: "Pazardan sepet de almış.",
+        a: "Çiçekleride suladı.",
+        b: "Bu dünya sana da bana da kalmaz.",
+        c: "Bugün okulda eğlence var.",
+        d: "Pazardan sepet de almış.",
                },
        correctanswer: "a",
     },
