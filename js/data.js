@@ -4,7 +4,7 @@ const quizLimit = 8; // default: 8
 const answerTime = 20; //default: 20
 
 
-const quizData = [
+const questions = [
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
           answers: {
