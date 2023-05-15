@@ -383,6 +383,6 @@ const quizData = [
         c: "Bazı yazarlarda o soruda kesme işareti yok diye eleştirmiş.",
         d: "TDK kurum adlarına gelen eklerin yazım kurallarını değiştirdi.",
                },
-       correctanswer: "c",
+       correct: "c",
     },
 ];
