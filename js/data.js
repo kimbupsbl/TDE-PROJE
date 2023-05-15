@@ -386,3 +386,5 @@ const quizData = [
        correct: "c",
     },
 ];
+
+export default quizData;
