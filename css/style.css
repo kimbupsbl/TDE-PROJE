@@ -71,12 +71,12 @@ audio {
     transition: width 1s;
 }
 
-.blue-gradient {
-    background: #03376d linear-gradient(90deg, #03376d, #097f97);
+.red-gradient {
+  background: #721c24 linear-gradient(90deg, #dc3545, #721c24);
 }
 
-.blue-gradient:hover {
-    background: #001b42 linear-gradient(90deg, #03376d, #2569b0, #097f97);
+.red-gradient {
+  background: #721c24 linear-gradient(90deg, #dc3545, #721c24);
 }
 
 .green-gradient {
@@ -88,11 +88,11 @@ audio {
 }
 
 .try-again-button {
-    background: #d1c305 linear-gradient(90deg, #d1c305, #b08423);
+    background: #721c24 linear-gradient(90deg, #dc3545, #721c24);
 }
 
 .try-again-button:hover {
-    background: #d1c305 linear-gradient(90deg, #d1c305, #b0a823, #b08423);
+    background: #721c24 linear-gradient(90deg, #dc3545, #721c24);
 }
 
 .m-download {
