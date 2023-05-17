@@ -515,7 +515,7 @@ submitBtn.addEventListener('click', () => {
                 </div>
                 </div>
                 <div class="failed-buttons-container">
-                <button class="try-again-button_IPTAL blue-gradient failed-screen-double-button_IPTAL" onclick="location.reload()">Yeniden Dene</button><button class="green-gradient failed-screen-double-button" style="display: none" onclick="getName(true)">Anıt Zeytin Ağacı Farkındalık Sertifikamı Oluştur</button>
+                <button class="try-again-button_IPTAL red-gradient failed-screen-double-button_IPTAL" onclick="location.reload()">Yeniden Dene</button><button class="green-gradient failed-screen-double-button" style="display: none" onclick="getName(true)">Anıt Zeytin Ağacı Farkındalık Sertifikamı Oluştur</button>
                 </div>
            `
             } 
